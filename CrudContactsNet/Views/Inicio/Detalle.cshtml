@@ -1,0 +1,25 @@
+﻿@model CrudContactsNet.Models.Contacto
+@{
+    ViewData["Title"] = "Detalle de contacto";
+}
+
+<h1 class="text-center">Contactos con .NET con MVC</h1>
+
+<div class="row">
+    <div class="offset-12">
+        <div class="card border">
+            <div class="class-header bg-dark">
+                <h3 class="text-white"><strong>Detalle de Usuario</strong></h3>
+            </div>
+            <div class="card-body">
+                <ul class="list-group">
+                    <li class="list-group-item"><strong>Nombre: </strong>@Html.DisplayFor(m => m.Nombre)</lic>
+                    <li class="list-group-item"><strong>Nombre: </strong>@Html.DisplayFor(m => m.Telefono)</lic>
+                    <li class="list-group-item"><strong>Nombre: </strong>@Html.DisplayFor(m => m.Celular)</lic>
+                    <li class="list-group-item"><strong>Nombre: </strong>@Html.DisplayFor(m => m.Email)</lic>
+                </ul>
+                <a asp-controller="Inicio" asp-action="Index">Volver</a>
+            </div>
+        </div>
+    </div>
+</div>

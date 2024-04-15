@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\crudcontactsnet\\crudcontactsnet\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|solutionrelative:crudcontactsnet\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\crudcontactsnet\\crudcontactsnet\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|solutionrelative:crudcontactsnet\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\crudcontactsnet\\crudcontactsnet\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|solutionrelative:crudcontactsnet\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\crudcontactsnet\\crudcontactsnet\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|solutionrelative:crudcontactsnet\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\crudcontactsnet\\crudcontactsnet\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|solutionrelative:crudcontactsnet\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|c:\\users\\yahir\\onedrive\\escritorio\\netcorerestfulapi\\crudcontactsnet\\crudcontactsnet\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B9644C6-29E7-47C2-8C83-64A4F0FC0963}|CrudContactsNet\\CrudContactsNet.csproj|solutionrelative:crudcontactsnet\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "CrudContactsNet\\Views\\Inicio\\Borrar.cshtml",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeToolTip": "CrudContactsNet\\Views\\Inicio\\Borrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T19:26:12.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "CrudContactsNet\\Views\\Inicio\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeToolTip": "CrudContactsNet\\Views\\Inicio\\Detalle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T19:20:52.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Views\\Inicio\\Editar.cshtml",
+              "RelativeDocumentMoniker": "CrudContactsNet\\Views\\Inicio\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Views\\Inicio\\Editar.cshtml",
+              "RelativeToolTip": "CrudContactsNet\\Views\\Inicio\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T19:10:09.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Views\\Inicio\\Crear.cshtml",
+              "RelativeDocumentMoniker": "CrudContactsNet\\Views\\Inicio\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Views\\Inicio\\Crear.cshtml",
+              "RelativeToolTip": "CrudContactsNet\\Views\\Inicio\\Crear.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T18:45:33.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Views\\Inicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudContactsNet\\Views\\Inicio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Views\\Inicio\\Index.cshtml",
+              "RelativeToolTip": "CrudContactsNet\\Views\\Inicio\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T17:43:39.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "CrudContactsNet\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\NetCoreRestfulApi\\CrudContactsNet\\CrudContactsNet\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "CrudContactsNet\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwEQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:38:24.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
