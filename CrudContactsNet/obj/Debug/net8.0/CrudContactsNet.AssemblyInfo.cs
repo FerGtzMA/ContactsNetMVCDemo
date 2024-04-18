@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudContactsNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2ac1f149d83d03c8c209045115730db656214f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudContactsNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudContactsNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

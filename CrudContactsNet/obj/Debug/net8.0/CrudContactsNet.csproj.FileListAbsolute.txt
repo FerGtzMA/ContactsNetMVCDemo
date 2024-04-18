@@ -134,3 +134,4 @@ C:\Users\yahir\OneDrive\Escritorio\NetCoreRestfulApi\CrudContactsNet\CrudContact
 C:\Users\yahir\OneDrive\Escritorio\NetCoreRestfulApi\CrudContactsNet\CrudContactsNet\obj\Debug\net8.0\CrudContactsNet.pdb
 C:\Users\yahir\OneDrive\Escritorio\NetCoreRestfulApi\CrudContactsNet\CrudContactsNet\obj\Debug\net8.0\CrudContactsNet.genruntimeconfig.cache
 C:\Users\yahir\OneDrive\Escritorio\NetCoreRestfulApi\CrudContactsNet\CrudContactsNet\obj\Debug\net8.0\ref\CrudContactsNet.dll
+C:\Users\yahir\OneDrive\Escritorio\NetCoreRestfulApi\CrudContactsNet\CrudContactsNet\obj\Debug\net8.0\CrudContactsNet.sourcelink.json
